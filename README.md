@@ -117,8 +117,8 @@ Anonymous HTTP GET; no registration for current TLEs. Historical ephemeris: regi
 
 ## Contact
 
-- {Jiaxian.Tu23, Yuxuan.Li2302}@student.xjtlu.edu.cn  
-- shenghexu@gmail.com · Lifan.Mei@xjtlu.edu.cn · 
+- Jiaxian.Tu23@student.xjtlu.edu.cn, Yuxuan.Li2302@student.xjtlu.edu.cn 
+- shenghexu@gmail.com , Lifan.Mei@xjtlu.edu.cn · 
 
 ## Licence
 
